@@ -1,4 +1,3 @@
-layout_spectrum: 0.225746312411502
 typography_spectrum: 0.3032333804294467
 color:
   brandStrength: 0.16660818411037326
@@ -11,4 +10,9 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.225746312411502
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2118567-3843-4cac-87e6-67e886133ba6.png
 name: muted fidgeting
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffe4907d-4655-4d81-8599-95c757397094.jpg
