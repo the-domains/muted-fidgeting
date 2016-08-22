@@ -1,0 +1,14 @@
+layout_spectrum: 0.225746312411502
+typography_spectrum: 0.3032333804294467
+color:
+  brandStrength: 0.16660818411037326
+  lightness: 0.7995580537244678
+  saturation: 0.8473673150874674
+  rhythmicContrast: 0.2349526199977845
+  brandColors:
+    - '#FFFFFF'
+    - '#1E1518'
+    - '#3B3738'
+    - '#A7557D'
+    - '#BCBA8F'
+name: muted fidgeting
